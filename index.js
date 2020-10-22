@@ -19,6 +19,8 @@ function johnLennonFacts (facts){
   
   var a=0;
   
+      consolo.log("HIIIIIII"+facts.length);
+  
   while (a<facts.length)
   {
     consolo.log("HIIIIIII");
