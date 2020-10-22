@@ -36,6 +36,7 @@ function iLoveTheBeatles(n){
   do{
        empty[i]='I love the Beatles!';
        i++;
+       n++;
     
     } while (n<15);
   
