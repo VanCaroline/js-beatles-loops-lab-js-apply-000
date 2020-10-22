@@ -34,10 +34,10 @@ function iLoveTheBeatles(n){
   var i=0;
   
   do{
-    empty[i]='I love the Beatles!'
-    i++;
+       empty[i]='I love the Beatles!';
+       i++;
     
-  } while (n<15)
+    } while (n<15)
   
   return empty;
 }
