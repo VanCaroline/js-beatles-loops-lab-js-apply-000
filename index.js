@@ -21,11 +21,11 @@ function johnLennonFacts (facts){
   
       consolo.log("HIIIIIII"+facts.length);
   
-  while (a<facts.length)
+ // while (a<facts.length)
   {
-    consolo.log("HIIIIIII");
+ //   consolo.log("HIIIIIII");
    // facts[a]=facts[a]+'!!!'
-   a++;
+ //  a++;
   }
   
   return facts;
