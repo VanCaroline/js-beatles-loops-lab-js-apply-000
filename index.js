@@ -18,15 +18,13 @@ function theBeatlesPlay (musicians, instruments)
 function johnLennonFacts (facts){
   
   var a=0;
-  
-  
-  
+ 
   while (a<facts.length)
   {
-    console.log("HIIIIIII");
-   // facts[a]=facts[a]+'!!!'
-   a++;
+    facts[a]=facts[a]+'!!!'
+    a++;
   }
   
   return facts;
 }
+
