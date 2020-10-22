@@ -28,3 +28,16 @@ function johnLennonFacts (facts){
   return facts;
 }
 
+function iLoveTheBeatles(n){
+  
+  var empty=[];
+  var i=0;
+  
+  do{
+    empty[i]='I love the Beatles!'
+    i++;
+    
+  } while (n<15)
+  
+  return empty;
+}
